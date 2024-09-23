@@ -4,4 +4,4 @@
 
  Наименование проекта  | Описание   | Стек
 ---------------------- | ---------- | -----
-[Сегментация клиентов банка по склонности к оттоку](https://github.com/DorokhovaAA/Practicum/tree/main/bank) | Выявление признаков склонности клиентов банка к оттоку и определение сегментов по показателю оттока | pandas, matplotlib,  seaborn, numpy,stats, math
+[Сегментация клиентов банка по склонности к оттоку](https://github.com/DorokhovaAA/Practicum/tree/main/bank) | Выявление признаков склонности клиентов банка к оттоку и определение сегментов по показателю оттока | pandas, matplotlib, seaborn, numpy, stats, math
